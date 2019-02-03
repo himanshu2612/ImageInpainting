@@ -5,3 +5,6 @@ ___
 ![alt text](https://github.com/himanshu2612/ImageInpainting/blob/master/Image_Data/sample_results.png)
 ## Dependencies
 ---
+* Python 3.6
+* Keras 2.2.0
+* Tensorflow 1.8
